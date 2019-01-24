@@ -5,3 +5,5 @@
 <a href="https://blog.csdn.net/candycat1992/article/details/50346469">【图形学】谈谈噪声</a>
 <br />
 <a href="https://www.indienova.com/indie-game-development/roguelike-dossier/">Roguelike 到底是啥－讲讲 Roguelike 相关知识</a>
+<br />
+<a href="https://blog.csdn.net/u010019717/article/details/72673225">Unity中使用柏林噪声生成地图</a>
