@@ -9,3 +9,5 @@
 <a href="https://blog.csdn.net/u010019717/article/details/72673225">Unity中使用柏林噪声生成地图</a>
 <br />
 <a href="https://blog.csdn.net/jurbo/article/details/76576070">游戏开发中的人工智能（完）：遗传算法</a>
+<br />
+<a href="https://blog.csdn.net/jurbo/article/details/75171947">游戏开发中的人工智能</a>
