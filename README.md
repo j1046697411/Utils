@@ -13,3 +13,5 @@
 <a href="https://blog.csdn.net/jurbo/article/details/75171947">游戏开发中的人工智能</a>
 <br />
 <a href="https://github.com/GcsSloop/AndroidNote">安卓学习笔记</a>
+<br />
+<a href="https://blog.csdn.net/LoveLion/article/category/738450/10?">设计模式</a>
