@@ -19,3 +19,5 @@
 <a href="https://github.com/DoubleLabyrinth/navicat-keygen">navicat 注册机</a>
 <br />
 <a href="https://start.spring.io/">spring boot 创建项目工具</a>
+<br />
+<a href="https://www.cnblogs.com/softidea/p/7257910.html">springboot 领域设计相关</a>
