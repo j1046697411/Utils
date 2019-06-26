@@ -39,3 +39,5 @@
 <a href="https://github.com/ttwings/wuxiaLove2d">武侠与江湖</a>
 <br />
 <a href="https://github.com/gpertzov/auto-tile-gdx">自动生成拼接地图</a>
+<br />
+<a href="https://github.com/aesophor/Vigilante-gdx">Vigilante-gdx</a>
