@@ -27,6 +27,7 @@
 [自动生成拼接地图](https://github.com/gpertzov/auto-tile-gdx)  
 [Vigilante-gdx](https://github.com/aesophor/Vigilante-gdx)  
 [xibalba](https://github.com/dannytatom/xibalba)  
+[mapgen](https://github.com/zacharycarter/mapgen)  
 # 游戏修改
 
 [opcode](https://github.com/j1046697411/Utils/blob/master/opcode.md)  
