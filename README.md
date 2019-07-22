@@ -15,6 +15,7 @@
 [关于游戏开发中瓷砖贴图的过渡（tile）](https://www.gameres.com/688814.html)  
 [在Unity C＃中程序生成环绕世界地图](http://www.jgallant.com/procedurally-generating-wrapping-world-maps-in-unity-csharp-part-1/#intro)  
 [基于平铺/地图的游戏技术：处理地形转换](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/tilemap-based-game-techniques-handling-terrai-r934)  
+[mini2Dx](https://github.com/mini2Dx/mini2Dx)  
 
 # 区块链
 [区块链的广播机制浅析](https://www.sohu.com/a/224295369_100078137)  
