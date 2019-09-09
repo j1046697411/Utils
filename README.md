@@ -23,6 +23,7 @@
 # 个人博客总集
 [夜明的孤行灯](http://www.huangyunkun.com/)  
 [从零开始写一个武侠冒险游戏](http://www.ituring.com.cn/article/216482)  
+[让你尖叫的游戏开发工具清单](https://blog.csdn.net/goodeveningbaby/article/details/51079857)  
 # Webkit内核
 [WebKit渲染基础之Render树的建立](https://blog.csdn.net/YxiaoqiR/article/details/78334021)  
 [WebKit渲染基础之RenderLayer树](http://www.nowamagic.net/academy/detail/48110560)  
