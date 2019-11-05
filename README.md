@@ -18,7 +18,8 @@
 [mini2Dx](https://github.com/mini2Dx/mini2Dx)  
 [两周自制脚本语言](https://github.com/mathors/Stone-language)  
 [Product Series | 产品迷思，商业产品经理的自我修养](https://github.com/wx-chevalier/Product-Series)  
-[Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+[Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html) 
+[模拟大型虚拟世界](http://procworld.blogspot.com/2010/12/simulating-large-virtual-worlds.html)
 
 # 区块链
 [区块链的广播机制浅析](https://www.sohu.com/a/224295369_100078137)  
