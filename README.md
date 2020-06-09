@@ -21,8 +21,8 @@
 [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)  
 [模拟大型虚拟世界](http://procworld.blogspot.com/2010/12/simulating-large-virtual-worlds.html)  
 [斯坦福大学学生整理的游戏开发资源大全](http://www-cs-students.stanford.edu/~amitp/gameprog.html)  
-[spring-security-oauth2:schema.sql](https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/test/resources/schema.sql)
-[Mvvm、RxJava、Retrofit 三剑合璧](https://www.jianshu.com/p/3821dadb6a3d)
+[spring-security-oauth2:schema.sql](https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/test/resources/schema.sql)  
+[Mvvm、RxJava、Retrofit 三剑合璧](https://www.jianshu.com/p/3821dadb6a3d)  
 
 # 区块链
 [区块链的广播机制浅析](https://www.sohu.com/a/224295369_100078137)  
