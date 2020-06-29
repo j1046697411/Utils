@@ -25,6 +25,7 @@
 [Mvvm、RxJava、Retrofit 三剑合璧](https://www.jianshu.com/p/3821dadb6a3d)  
 [教大家如何一步一步的将自己的开源项目上传到jcenter](https://blog.csdn.net/csdn576038874/article/details/79308391)  
 [android 语言对照码](./language.md)-[json](language.json)  
+[SpringCloud(八)：API网关整合OAuth2认证授权服务](https://www.jianshu.com/u/082f73dac819)  
 
 
 # 区块链
