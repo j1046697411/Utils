@@ -26,7 +26,7 @@
 [教大家如何一步一步的将自己的开源项目上传到jcenter](https://blog.csdn.net/csdn576038874/article/details/79308391)  
 [android 语言对照码](./language.md)-[json](language.json)  
 [SpringCloud(八)：API网关整合OAuth2认证授权服务](https://www.jianshu.com/u/082f73dac819)  
-
+[Android自定义LayoutManager](https://blog.csdn.net/u011387817/article/details/81875021)  
 
 # 区块链
 [区块链的广播机制浅析](https://www.sohu.com/a/224295369_100078137)  
