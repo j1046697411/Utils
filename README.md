@@ -58,4 +58,7 @@
 # 工业开发
 [Java实现ModbusTCP通信](https://www.cnblogs.com/ioufev/p/10831289.html)  
 
+# Android 一些优秀的第三方库
+[NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)Android实现引导的库  
+
 
