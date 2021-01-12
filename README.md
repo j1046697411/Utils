@@ -55,6 +55,7 @@
 
 [opengameart](https://opengameart.org/)  
 [Universal-LPC-spritesheet](https://github.com/makrohn/Universal-LPC-spritesheet)  
+[合规解决unity游戏模型、ui和音频素材的5种方法](https://gamedevplugins.com/a/%e5%90%88%e8%a7%84%e8%a7%a3%e5%86%b3unity%e6%b8%b8%e6%88%8f%e6%a8%a1%e5%9e%8b%e3%80%81ui%e5%92%8c%e9%9f%b3%e9%a2%91%e7%b4%a0%e6%9d%90%e7%9a%845%e7%a7%8d%e6%96%b9%e6%b3%95/)  
 
 # 工业开发
 [Java实现ModbusTCP通信](https://www.cnblogs.com/ioufev/p/10831289.html)  
