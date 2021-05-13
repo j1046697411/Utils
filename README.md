@@ -28,6 +28,7 @@
 [SpringCloud(八)：API网关整合OAuth2认证授权服务](https://www.jianshu.com/u/082f73dac819)  
 [Android自定义LayoutManager](https://blog.csdn.net/u011387817/article/details/81875021)  
 [Mvvm模式: Databinding 与 ViewModel+LiveData+Repository](https://www.jianshu.com/p/e7628d6e6f61/)  
+[如何构建Android MVVM 应用框架](https://tech.meituan.com/2016/11/11/android-mvvm.html)  
 [地图自动拼接-AS3地图拼接与战争迷雾的实现](https://www.gameres.com/201878.html)  
 [ide-eval-resetter](https://gitee.com/pengzhile)  
 
