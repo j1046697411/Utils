@@ -31,6 +31,7 @@
 [如何构建Android MVVM 应用框架](https://tech.meituan.com/2016/11/11/android-mvvm.html)  
 [地图自动拼接-AS3地图拼接与战争迷雾的实现](https://www.gameres.com/201878.html)  
 [ide-eval-resetter](https://gitee.com/pengzhile)  
+[NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET)  
 
 # 区块链
 [区块链的广播机制浅析](https://www.sohu.com/a/224295369_100078137)  
